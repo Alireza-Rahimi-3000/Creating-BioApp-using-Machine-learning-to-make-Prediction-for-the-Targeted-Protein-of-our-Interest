@@ -1,5 +1,5 @@
 # Creating BioApp using Machine learning to make Prediction for the Targeted Protein of our Interest
-Pre-process biological activity data from the ChEMBL database that you can use to perform Computational Drug Discovery.
+As a preliminary step, we should Pre-process biological activity data from the ChEMBL database that you can use to perform Computational Drug Discovery.
 The dataset is comprised of compounds (molecules) that have been biologically tested for their activity towards target organism/protein of interest.
 
 Then use the SMILES notation (representing the unique chemical structure of compounds) to compute molecular descriptors.
