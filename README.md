@@ -1,4 +1,4 @@
-# Machine learning BioApp to make prediction for the target protein of our interest (Pj)
+# BioApp using Machine learning to make prediction for the targeted protein of our interest
 Pre-process biological activity data from the ChEMBL database that you can use to perform Computational Drug Discovery.
 The dataset is comprised of compounds (molecules) that have been biologically tested for their activity towards target organism/protein of interest.
 
