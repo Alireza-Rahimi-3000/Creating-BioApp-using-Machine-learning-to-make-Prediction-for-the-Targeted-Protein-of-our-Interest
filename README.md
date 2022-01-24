@@ -12,4 +12,4 @@ in further process, build a regression model for predicting the pIC50 values (th
 
 After review the structures, build and compare several regression models (quantitative structure-activity relationship or QSAR) of the Acetylcholinesterase inhibitors using the lazypredict library in Python.            
 
-Finally in last process, deploy the machine learning model as a web app. Essentially, this web app will serve as a Bioinformatics tool that will allow users the ability to predict whether a compound of interest has favorable biological activity against the target protein or not.    
+Finally in last process, deploy the machine learning model as a web app. Essentially, this web app will serve as a Bioinformatics tool that will allow users the ability to predict whether a compound of interest has favorable biological activity against the target protein or not.      
