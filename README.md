@@ -2,7 +2,7 @@
 As a preliminary step, we should Pre-process biological activity data from the ChEMBL database that you can use to perform Computational Drug Discovery.
 The dataset is comprised of compounds (molecules) that have been biologically tested for their activity towards target organism/protein of interest.     
 
-Then use the SMILES notation (representing the unique chemical structure of compounds) to compute molecular descriptors.  
+Then use the SMILES notation (representing the unique chemical structure of compounds) to compute molecular descriptors.   
 The descriptors that we will be computing are the Lipinski's descriptors (molecular weight, LogP, number of hydrogen bond donors and number of hydrogen bond acceptors).
 Finally we will then perform exploratory data analysis by making simple box plots and scatter plots to discern differences of the active and inactive sets of compounds.    
 
