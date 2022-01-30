@@ -8,7 +8,7 @@ Finally we will then perform exploratory data analysis by making simple box plot
 
 In the next step, I have made some changes to the target protein to be Acetylcholinesterase as it provides a larger dataset to work with.  
 We have already computed the molecular descriptors using the PADEL-Descriptor software and prepare the dataset (X and Y dataframes) that will be used in this video for Model Building.
-in further process, build a regression model for predicting the pIC50 values (the Y variable).      
+in further process, build a regression model for predicting the pIC50 values (the Y variable).       
 
 After review the structures, build and compare several regression models (quantitative structure-activity relationship or QSAR) of the Acetylcholinesterase inhibitors using the lazypredict library in Python.            
 
